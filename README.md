@@ -61,6 +61,6 @@ Fields: App, Category, Rating, Reviews, Size, Installs, Type (Free/Paid), Price,
 
 ## Author
 
-Himaja Kavuri — MS Business Analytics, USC Marshall School of Business  
+Himaja Kavuri — MS Analytics, USC Viterbi School of Engineering  
 Portfolio: [himajakavuri23.github.io](https://himajakavuri23.github.io)  
 LinkedIn: [linkedin.com/in/himaja-kavuri](https://linkedin.com/in/himaja-kavuri)
